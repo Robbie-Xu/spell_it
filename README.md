@@ -7,7 +7,10 @@ The gif below shows how you win the game:
 
 ![spell_it win](win.gif)
 
+
+
 And how you lose:
+
 ![spell_it win](lose.gif)
 
 
